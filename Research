@@ -1,0 +1,20 @@
+2.0 OBJECTIVES 
+2.1 Main Objective 
+The main Objective of this research is to design, develop, and evaluate an Elderly 
+Care App that combines sophisticated image recognition algorithms for eye disease 
+detection with customized medication reminder features, offering a complete solution 
+for proactive health monitoring and treatment management specifically catered to the 
+needs of the elderly population.
+2.1.1 Specific Objectives 
+Design and implement advanced algorithms to analyze eye images for visible 
+symptoms of conjunctivitis, corneal ulcers, cataracts, and uveitis.
+Incorporate image processing and machine learning techniques for accurate 
+preliminary disease screening.
+Design an intuitive and user-friendly interface for capturing eye images using 
+smartphone cameras.
+Develop an engaging UI for setting up personalized medication reminders, focusing 
+on ease of use and accessibility.
+Develop a robust medication management system that allows users to input 
+prescribed eye medications and dosing schedules.
+Build a notification mechanism that sends timely reminders, enabling users to adhere 
+to their treatment regimens.
