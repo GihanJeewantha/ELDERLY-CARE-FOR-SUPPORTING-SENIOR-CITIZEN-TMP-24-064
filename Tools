@@ -1,0 +1,26 @@
+The creation of the Elderly Care App, which incorporates image recognition algorithms 
+for eye illness diagnosis and individualized medication reminder features, calls for a 
+variety of tools and technologies to guarantee its usability, usefulness, and 
+accessibility. In order to complete various tasks related to the development of the app, 
+the following tools and technologies might be used:
+Programming Languages:
+- Python: Used for implementing image recognition algorithms and backend logic.
+- Java: Used for frontend development, creating interactive user interfaces.
+Mobile App Development:
+- React Native: A popular framework for building cross-platform mobile apps that 
+works on both iOS and Android platforms.
+- Swift (iOS) and Java/Kotlin (Android): If native development is preferred, these 
+languages can be used for iOS and Android platforms, respectively.
+Image Recognition:
+- OpenCV: An open-source computer vision library used for image processing and 
+analysis.
+- TensorFlow or PyTorch: Deep learning frameworks that can be used for training and 
+deploying image recognition models.
+Backend Development:
+- Flask or Django:Python-based web frameworks for developing the backend APIs and 
+services.
+-RESTful APIs: To facilitate communication between frontend and backend 
+components.
+Database:
+- SQLite or PostgreSQL: Lightweight databases for storing user data, medication 
+schedules, and eye image metadata
